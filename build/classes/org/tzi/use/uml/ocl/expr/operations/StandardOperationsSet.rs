@@ -1,0 +1,10 @@
+org.tzi.use.uml.ocl.expr.operations.Op_set_including
+org.tzi.use.uml.ocl.expr.operations.Op_set_difference
+org.tzi.use.uml.ocl.expr.operations.Op_set_union
+org.tzi.use.uml.ocl.expr.operations.Op_set_symmetricDifference
+org.tzi.use.uml.ocl.expr.operations.Op_set_excluding
+org.tzi.use.uml.ocl.expr.operations.Op_set_intersection_bag
+org.tzi.use.uml.ocl.expr.operations.Op_set_union_bag
+org.tzi.use.uml.ocl.expr.operations.StandardOperationsSet
+org.tzi.use.uml.ocl.expr.operations.Op_set_intersection
+org.tzi.use.uml.ocl.expr.operations.Op_mkSetRange

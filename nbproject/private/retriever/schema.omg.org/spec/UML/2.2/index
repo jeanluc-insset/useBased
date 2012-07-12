@@ -1,0 +1,284 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="keywords" content="UML, MDA, Certification, CORBA, OMG, OMG Meetings, IDL, XML, Technology, Middleware, Standards, Specifications, Modeling, Metamodel, Meta model, MOF, BPM, BPMN, Smart Grid">
+<meta name="description" content="UML 2.2">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>UML 2.2</title>
+<link rel="stylesheet" type="text/css" href="../../stylesheet.css">
+<link REL="SHORTCUT ICON" HREF="http://www.omg.org/favicon.ico">
+</head>
+
+<body bgcolor="#DDDDDD">
+<div align="center">
+  
+  <table border="0" width="809" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+	<tr>
+		<td>
+  
+  <!--webbot bot="Include" U-Include="http://schema.omg.org/_borders/top.htm" TAG="BODY" startspan -->
+
+  <center>
+<SCRIPT language=JavaScript src="http://www.omg.org/menu/menu_array1-all.js" type="text/javascript"></SCRIPT>
+<SCRIPT language=JavaScript src="http://www.omg.org/menu/mmenu.js" type="text/javascript"></SCRIPT>
+<div align="center">
+  <table border="0" width="809" cellspacing="0" cellpadding="0">
+    <tr>
+            <td valign="bottom" align="left">
+<map name="FPMap0_I1">
+<area href="http://www.omg.org/" shape="rect" coords="312, 3, 486, 87" alt="OMG Homepage" title="OMG Homepage">
+<area href="http://www.omg.org/mda" shape="rect" coords="737, 52, 799, 99" alt="MDA Homepage" title="MDA Homepage">
+<area href="http://www.corba.org" shape="rect" coords="14, 6, 141, 38" alt="CORBA Homepage" title="CORBA Homepage">
+<area href="http://www.omg.org/mof/" shape="rect" coords="6, 65, 76, 99" alt="MOF Homepage" title="MOF Homepage">
+<area href="http://www.uml.org" shape="rect" coords="103, 41, 177, 93" alt="UML Homepage" title="UML Homepage">
+<area href="http://www.omg.org/technology/documents/modeling_spec_catalog.htm" shape="rect" coords="177, 0, 241, 48" alt="CWM Homepage" title="CWM Homepage">
+<area href="http://www.omg.org/technology/documents/modeling_spec_catalog.htm#XMI" shape="rect" coords="213, 56, 288, 96" alt="XMI Homepage" title="XMI Homepage">
+<area href="http://portals.omg.org/dds/" shape="rect" coords="515, 54, 583, 99" alt="DDS Homepage" title="DDS Homepage">
+<area href="http://www.mdmi-consortium.org/" shape="rect" coords="542, 5, 626, 54" alt="MDMI Homepage" title="MDMI Homepage">
+<area href="http://www.bpmn.org" shape="rect" coords="616, 53, 716, 94" alt="BPMN Homepage" title="BPMN Homepage">
+<area href="http://www.omgsysml.org/" shape="rect" coords="660, 1, 754, 49" alt="SysML Homepage" title="SysML Homepage">
+</map>
+<img border="0" src="http://www.omg.org/images/images-home/top-template-all-logos-new.gif" width="800" height="100" alt="banner" usemap="#FPMap0_I1"></td>
+    </tr>
+    <tr>
+            <td valign="top" align="center" height="2"></td>
+
+    </tr>
+    <tr>
+            <td valign="top" align="center">
+                    </td>
+
+    </tr>
+  </table>
+  
+</div>
+  </center>
+<p align="center">
+<br><br>
+
+<!--webbot bot="Include" i-checksum="63922" endspan --></td>
+	</tr>
+	<tr>
+		<td>
+		<div align="center">
+			<table width="90%" border="0" cellspacing="1">
+	<tr>
+		<td align="center" bgcolor="#FFFFFF" width="100%">
+		
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9572230613594886";
+/* /spec/UML/2.2/ */
+google_ad_slot = "2198575179";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+		
+		<h1 align="center">Documents associated with UML Version 2.2</h1>
+		<h4 align="center">Release date: February 2009</h4>
+		<p align="center">Beginning with UML 2.0, the UML Specification was
+        split into two complementary specifications: <b><i>Infrastructure</i></b>
+        and <b><i>Superstructure</i></b>. The <i><b>UML infrastructure</b></i> specification defines
+                the foundational language constructs required for UML 2.2. It
+                is complemented by <b> <i>UML</i> <i>Superstructure</i></b>, which
+                defines the user level constructs required for UML 2.2. The
+                two complementary specifications constitute a complete
+                specification for the UML 2 modeling language.</p>
+		<h5 align="center">Normative</h5>
+		          <center>
+          <table border="0" width="100%" cellspacing="1" cellpadding="0" bgcolor="#CCCCCC">
+            <tr>
+              <td width="168" bgcolor="#FFFFFF" height="23">
+                <p align="center"><font color="#008080"><b>OMG document number</b></font></td>
+              <td width="162" bgcolor="#FFFFFF" height="23">
+                <p align="center"><b><font color="#008080">Explanation</font></b></td>
+              <td width="62" bgcolor="#FFFFFF" height="23">
+                <p align="center"><font color="#008080"><b>Format</b></font></td>
+              <td width="356" bgcolor="#FFFFFF" height="23">
+                <p align="center"><font color="#008080"><b>URL</b></font></td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">formal/2009-02-04</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">Infrastructure specification</td>
+              <td width="62" align="center" bgcolor="#FFFFFF">PDF</td>
+              <td width="356" align="center" bgcolor="#FFFFFF"><a href="Infrastructure/PDF/">http://www.omg.org/spec/UML/2.2/Infrastructure/PDF</a></td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">formal/2009-02-04</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">Infrastructure specification</td>
+              <td width="62" align="center" bgcolor="#FFFFFF"> PostScript</td>
+              <td width="356" align="center" bgcolor="#FFFFFF"><a href="Infrastructure/PS/">http://www.omg.org/spec/UML/2.2/Infrastructure/PS</a></td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">formal/2009-02-02</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">Superstructure specification</td>
+              <td width="62" align="center" bgcolor="#FFFFFF">PDF</td>
+              <td width="356" align="center" bgcolor="#FFFFFF"><a href="Superstructure/PDF/">http://www.omg.org/spec/UML/2.2/Superstructure/PDF</a></td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">formal/2009-02-02</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">Superstructure specification</td>
+              <td width="62" align="center" bgcolor="#FFFFFF"> PostScript</td>
+              <td width="356" align="center" bgcolor="#FFFFFF"><a href="Superstructure/PS/">http://www.omg.org/spec/UML/2.2/Superstructure/PS</a></td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">&nbsp;ptc/2008-05-06&nbsp;</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">XMI</td>
+              <td width="62" align="center" bgcolor="#FFFFFF">XML</td>
+          </center>
+
+              <td width="356" align="center" bgcolor="#FFFFFF">
+                <p align="left"><a href="../20080501/Superstructure.xmi">http://www.omg.org/spec/UML/20080501/Superstructure.xmi</a></p>
+            </td>
+            </tr>
+		          <center>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">&nbsp;ptc/2008-05-07&nbsp;</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">XMI</td>
+              <td width="62" align="center" bgcolor="#FFFFFF">XML</td>
+
+              <td width="356" align="center" bgcolor="#FFFFFF">
+                <p align="left"><a href="../20080501/uml-L0-model.xmi">http://www.omg.org/spec/UML/20080501/uml-L0-model.xmi</a></p>
+            </td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">ptc/2008-05-08</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">XMI</td>
+              <td width="62" align="center" bgcolor="#FFFFFF">XML</td>
+              <td width="356" align="left" bgcolor="#FFFFFF"><a href="../20080501/uml-L1-model.xmi">http://www.omg.org/spec/UML/20080501/uml-L1-model.xmi</a></td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">&nbsp;ptc/2008-05-09&nbsp;</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">XMI</td>
+              <td width="62" align="center" bgcolor="#FFFFFF">XML</td>
+
+              <td width="356" align="center" bgcolor="#FFFFFF">
+                <p align="left"><a href="../20080501/uml-L2-model.xmi">http://www.omg.org/spec/UML/20080501/uml-L2-model.xmi</a></p>
+            </td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">ptc/2008-05-10</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">XMI</td>
+              <td width="62" align="center" bgcolor="#FFFFFF">XML</td>
+              <td width="356" align="left" bgcolor="#FFFFFF"><a href="../20080501/uml-L3-model.xmi">http://www.omg.org/spec/UML/20080501/uml-L3-model.xmi</a></td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">ptc/2008-05-11</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">XMI</td>
+              <td width="62" align="center" bgcolor="#FFFFFF">XML</td>
+              <td width="356" align="left" bgcolor="#FFFFFF"><a href="../20080501/uml-LM-model.xmi">http://www.omg.org/spec/UML/20080501/uml-LM-model.xmi</a></td>
+            </tr>
+            <tr>
+              <td width="168" align="center" bgcolor="#FFFFFF">ptc/2008-05-12</td>
+              <td width="162" align="center" bgcolor="#FFFFFF">XMI</td>
+              <td width="62" align="center" bgcolor="#FFFFFF">XML</td>
+              <td width="356" align="left" bgcolor="#FFFFFF"><a href="../20080501/Infrastructure.xmi">http://www.omg.org/spec/UML/20080501/Infrastructure.xmi</a></td>
+            </tr>
+          </table>
+          </center>
+
+		<h5 align="center">Non-normative</h5>
+        <div align="center">
+          <center>
+          <table border="0" width="755" cellspacing="1" cellpadding="0" bgcolor="#CCCCCC">
+            <tr>
+              <td width="157" bgcolor="#FFFFFF" height="23">
+                <p align="center"><font color="#008080"><b>OMG document number</b></font></td>
+              <td width="113" bgcolor="#FFFFFF" height="23">
+                <p align="center"><b><font color="#008080">Explanation</font></b></td>
+              <td width="70" bgcolor="#FFFFFF" height="23">
+                <p align="center"><font color="#008080"><b>Format</b></font></td>
+              <td width="409" bgcolor="#FFFFFF" height="23">
+                <p align="center"><font color="#008080"><b>URL</b></font></td>
+            </tr>
+            <tr>
+              <td width="157" align="center" bgcolor="#FFFFFF">formal/2009-02-05</td>
+              <td width="113" align="center" bgcolor="#FFFFFF">Infrastructure<br>
+                change-barred (from last version)</td>
+              <td width="70" align="center" bgcolor="#FFFFFF">PDF</td>
+              <td width="409" align="center" bgcolor="#FFFFFF"><a href="Infrastructure/PDF/changebarred/">http://www.omg.org/spec/UML/2.2/Infrastructure/PDF/changebarred</a></td>
+            </tr>
+            <tr>
+              <td width="157" align="center" bgcolor="#FFFFFF">formal/2009-02-05</td>
+              <td width="113" align="center" bgcolor="#FFFFFF">Infrastructure<br>
+                change-barred (from last version)&nbsp;</td>
+              <td width="70" align="center" bgcolor="#FFFFFF">PostScript</td>
+              <td width="409" align="center" bgcolor="#FFFFFF"><a href="Infrastructure/PS/changebarred/">http://www.omg.org/spec/UML/2.2/Infrastructure/PS/changebarred</a></td>
+            </tr>
+            <tr>
+              <td width="157" align="center" bgcolor="#FFFFFF">formal/2009-02-03</td>
+              <td width="113" align="center" bgcolor="#FFFFFF">Superstructure<br>
+                change-barred (from last version)&nbsp;</td>
+              <td width="70" align="center" bgcolor="#FFFFFF">PDF</td>
+              <td width="409" align="center" bgcolor="#FFFFFF"><a href="Superstructure/PDF/changebarred/">http://www.omg.org/spec/UML/2.2/Superstructure/PDF/changebarred</a></td>
+            </tr>
+            <tr>
+              <td width="157" align="center" bgcolor="#FFFFFF">formal/2009-02-03</td>
+              <td width="113" align="center" bgcolor="#FFFFFF">Superstructure<br>
+                change-barred (from last version)&nbsp;</td>
+              <td width="70" align="center" bgcolor="#FFFFFF"> PostScript</td>
+              <td width="409" align="center" bgcolor="#FFFFFF"><a href="Superstructure/PS/changebarred/">http://www.omg.org/spec/UML/2.2/Superstructure/PS/changebarred</a></td>
+            </tr>
+          </center>
+          </table>
+          <center>
+          <br><a href="../index.htm">Return to UML Home</a>
+          </center>
+        </div>
+		</td>
+	</tr>
+	
+	
+	</table>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+	<!--webbot bot="Include" U-Include="../../../_borders/bottom.htm" TAG="BODY" startspan -->
+	
+	<div align="center">
+	
+	<table border="0" width="100%" cellspacing="0">
+		<tr>
+			<td bgcolor="#008080" height="17"></td>
+		</tr>
+		<tr>
+			<td bgcolor="#000000" align="center" height="2">
+			
+		</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#EEEEEE" height="75">
+			
+			<font class="bpt"><font size="1">Copyright © 1997-2012 Object Management Group, Inc. All Rights 
+			Reserved. For questions about the WEBSITE , please contact
+			<a href="mailto:webmaster@omg.org">webmaster@omg.org</a> For 
+			TECHNICAL questions, please contact <a href="mailto:webtech@omg.org">
+			webtech@omg.org </a></font></font><font size="1">This site is best viewed at 800x600 
+			pixels with Netscape Navigator or Internet Explorer versions 4.0 or 
+			later or any browser<br>
+&nbsp;capable of viewing JavaScript and CSS 2.0. The site is using
+						</font>
+      <font size="1" color="#808080">
+						<a target="_blank" href="http://www.milonic.com/">
+						DHTML JavaScript Menu By Milonic.com</a></font><font size="1">.
+						</font>
+						</td>
+		</tr>
+	</table>
+	
+	</div>
+	
+<!--webbot bot="Include" i-checksum="53109" endspan --></td>
+	</tr>
+	</table>
+	</div>
+		
+</body>
+</html>

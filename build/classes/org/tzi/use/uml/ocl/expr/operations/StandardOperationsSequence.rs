@@ -1,0 +1,14 @@
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_excluding
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_union
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_insertAt
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_indexOf
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_prepend
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_subSequence
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_last
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_including
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_reverse
+org.tzi.use.uml.ocl.expr.operations.StandardOperationsSequence
+org.tzi.use.uml.ocl.expr.operations.Op_mkSequenceRange
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_append
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_first
+org.tzi.use.uml.ocl.expr.operations.Op_sequence_at

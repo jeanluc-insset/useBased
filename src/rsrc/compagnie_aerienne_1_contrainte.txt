@@ -1,0 +1,152 @@
+model CompagnieAerienne
+class Vol
+attributes 
+    jourVol : String
+operations 
+end  -- Vol    
+
+
+class Pilote
+attributes 
+    nom : String
+    prenom : String
+    dateDeNaissance : String
+    age : Integer
+operations 
+end  -- Pilote    
+
+
+class Brevet
+attributes 
+operations 
+end  -- Brevet    
+
+
+class Avion
+attributes 
+    immatriculation : String
+operations 
+end  -- Avion    
+
+
+class Modele
+attributes 
+operations 
+end  -- Modele    
+
+
+class Description
+attributes 
+operations 
+end  -- Description    
+
+
+class Aeroport
+attributes 
+    trigramme : String
+operations 
+end  -- Aeroport    
+
+
+class Model
+attributes 
+operations 
+end  -- Model    
+
+
+class Diagram
+attributes 
+operations 
+end  -- Diagram    
+
+
+class Element
+attributes 
+operations 
+end  -- Element    
+
+
+class Package
+attributes 
+operations 
+end  -- Package    
+
+
+
+association assoc_1 between
+    
+    Pilote[0..1] role commandant
+    Vol[*] role volsEnTantQueCommandant
+end
+
+
+association assoc_2 between
+    
+    Pilote[0..1] role second
+    Vol[*] role volsEnTantQueSecond
+end
+
+
+association assoc_3 between
+    
+    Brevet[*] role brevets
+    Pilote[0..1] role titulaire
+end
+
+
+association assoc_4 between
+    
+    Modele[0..1] role modele
+    Brevet[*] role brevets
+end
+
+
+association assoc_5 between
+    
+    Modele[0..1] role modele
+    Avion[*] role avions
+end
+
+
+association assoc_6 between
+    
+    Avion[0..1] role avion
+    Vol[*] role vols
+end
+
+
+association assoc_7 between
+    
+    Description[0..1] role description
+    Vol[*] role vols
+end
+
+
+association assoc_8 between
+    
+    Aeroport[0..1] role depart
+    Description[*] role volsAuDepart
+end
+
+
+association assoc_9 between
+    
+    Aeroport[0..1] role arrivee
+    Description[*] role volsALArrivee
+end
+
+
+association assoc_10 between
+    
+    Modele[*] role modeles
+    Description[*] role descriptions
+end
+
+
+constraints
+
+        
+context Vol inv commandantOK:
+        commandant.brevets.modele->includes(avion.modele)
+context Vol inv equipage:
+        commandant <> second

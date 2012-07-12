@@ -1,0 +1,14 @@
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_append
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_indexOf
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_excluding
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_reverse
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_insertAt
+org.tzi.use.uml.ocl.expr.operations.StandardOperationsOrderedSet
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_at
+org.tzi.use.uml.ocl.expr.operations.Op_mkOrderedSetRange
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_including
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_subOrderedSet
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_first
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_union
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_prepend
+org.tzi.use.uml.ocl.expr.operations.Op_orderedSet_last
